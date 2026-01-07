@@ -1,29 +1,23 @@
 # Gen-Ai
-📘 Day 1 – Introduction to Generative AI Frameworks
-🔗 LangChain
+# 📘 Day 1 – Introduction to Generative AI Frameworks
+# 🔗 LangChain
 
 LangChain is an open-source framework used to build AI-powered applications and agents.
 It enables Large Language Models (LLMs) to interact with external data sources such as company documents, personal files, databases, APIs, and vector stores.
 
 Using prompts, chains, tools, and memory, LangChain helps generate accurate, context-aware responses based on the end-user or business requirements.
 It is commonly used for:
-
 Chatbots
-
 Question–Answer systems
-
 Document analysis
-
 AI agents using custom data
 
-🔗 LangGraph
+# 🔗 LangGraph
 
 LangGraph is an extended framework built on top of LangChain, designed for complex, multi-step, and stateful AI workflows.
 
 It allows developers to create graph-based and cyclic execution flows, making it ideal for:
-
 Multi-agent systems
-
 Deep reasoning tasks
 
 Research-based AI workflows
