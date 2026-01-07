@@ -9,8 +9,6 @@ def division(a,b):
 x = int(input("Enter a number: "))
 y = int(input("Enter another number: "))
 selection = input("select(+,-,*,/): ")
-while selection not in ["+","-","*","/"]:
-    selection = input("select(+,-,*,/): ")
 result = 0
 if selection == "+":
     result = addition(x, y)
